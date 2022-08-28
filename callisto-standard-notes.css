@@ -55,6 +55,7 @@
   --sn-stylekit-paragraph-text-color: var(--white);
   --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
+  --sn-stylekit-grey-4-opacity-variant: var(--third-acsent);
 }
 
 // Fix for white color on notes in latest version
