@@ -30,6 +30,10 @@
   --sn-stylekit-warning-contrast-color: var(--bright-white);
   --sn-stylekit-danger-color: var(--danger);
   --sn-stylekit-danger-contrast-color: var(--bright-white);
+  --sn-stylekit-grey-0: var(--third-acsent);
+  --sn-stylekit-grey-3: var(--third-acsent);
+  --sn-stylekit-grey-4: var(--third-acsent);
+  --sn-stylekit-grey-4-opacity-variant: var(--third-acsent);
   --sn-stylekit-grey-5: var(--bg-darker);
 
   --sn-desktop-titlebar-bg-color: var(--bg-primary);
@@ -55,7 +59,6 @@
   --sn-stylekit-paragraph-text-color: var(--white);
   --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
-  --sn-stylekit-grey-4-opacity-variant: var(--third-acsent);
 }
 
 // Fix for white color on notes in latest version
