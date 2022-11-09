@@ -10,6 +10,7 @@
   
   --white: #d8d8d8;
   --bright-white: #d8d8d8;
+  --grey: ##a2a2a2;
   --neutral: #7c7c7c;
   --success: #62d248;
   --warning: #f6f000;
@@ -60,7 +61,7 @@
   --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
   --sn-stylekit-passive-color-3: var(--neutral);
-  --sn-stylekit-passive-color-5: var(--bg-darker);
+  --sn-stylekit-passive-color-5: var(--grey);
   --navigation-item-selected-background-color: var(--third-acsent);
 }
 
