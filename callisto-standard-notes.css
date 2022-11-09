@@ -42,6 +42,12 @@
   --sn-desktop-titlebar-ui-color: var(--danger);
   --sn-desktop-titlebar-ui-hover-color: var(--acsent);
   
+  --sn-component-foreground-color: var(--white);
+  --sn-component-background-color: transparent;
+  --sn-component-foreground-highlight-color: var(--bg-lighter);
+  --sn-component-outer-border-color: transparent;
+  --sn-component-inner-border-color: var(--white);
+  
   --sn-stylekit-shadow-color: var(--bg-lighter);
   --sn-stylekit-background-color: var(--bg-primary);
   --sn-stylekit-border-color: var(--bg-darker);
