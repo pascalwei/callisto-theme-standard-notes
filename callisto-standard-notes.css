@@ -62,6 +62,10 @@
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
   --sn-stylekit-passive-color-3: var(--neutral);
   --sn-stylekit-passive-color-5: var(--grey);
+  --sn-stylekit-passive-color-4: #eeeff1;
+  --sn-stylekit-passive-color-4-opacity-variant: #bbbec43d;
+  --sn-stylekit-passive-color-6: #e5e5e5;
+  --sn-stylekit-passive-color-super-light: #f9f9f9;
   --navigation-item-selected-background-color: var(--third-acsent);
 }
 
